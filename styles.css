@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: whitesmoke;text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:300%;
+}
+h2 {
+    color: whitesmoke;text-align:center;
+    border: 2px solid turquoise;
+    margin: 20px;
+    padding: 50px;
+    font-size: 160%;
+  }
+p{
+    color: whitesmoke;text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:100%;
+}
+
+
